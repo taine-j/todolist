@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uwn53Lq9w3M=",
+  "dgSpecHash": "HQxUnpXCMIg=",
   "success": true,
-  "projectFilePath": "/Users/tainejarvis/Desktop/Code/todolist-c-/server/server.csproj",
+  "projectFilePath": "/Users/tainejarvis/Desktop/Code/todolist/server/server.csproj",
   "expectedPackageFiles": [
     "/Users/tainejarvis/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/tainejarvis/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

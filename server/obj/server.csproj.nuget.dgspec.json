@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tainejarvis/Desktop/Code/todolist-c-/server/server.csproj": {}
+    "/Users/tainejarvis/Desktop/Code/todolist/server/server.csproj": {}
   },
   "projects": {
-    "/Users/tainejarvis/Desktop/Code/todolist-c-/server/server.csproj": {
+    "/Users/tainejarvis/Desktop/Code/todolist/server/server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tainejarvis/Desktop/Code/todolist-c-/server/server.csproj",
+        "projectUniqueName": "/Users/tainejarvis/Desktop/Code/todolist/server/server.csproj",
         "projectName": "server",
-        "projectPath": "/Users/tainejarvis/Desktop/Code/todolist-c-/server/server.csproj",
+        "projectPath": "/Users/tainejarvis/Desktop/Code/todolist/server/server.csproj",
         "packagesPath": "/Users/tainejarvis/.nuget/packages/",
-        "outputPath": "/Users/tainejarvis/Desktop/Code/todolist-c-/server/obj/",
+        "outputPath": "/Users/tainejarvis/Desktop/Code/todolist/server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tainejarvis/.nuget/NuGet/NuGet.Config"
@@ -52,6 +52,8 @@
               "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
             },
